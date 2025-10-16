@@ -1,6 +1,6 @@
 # KnightsTour
 
-Pseudocode - Knights Tour Problem Solver
+Pseudocode - Knights Tour Problemsolver
 
 Precompute:
 
