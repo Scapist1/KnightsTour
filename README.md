@@ -6,14 +6,11 @@ Precompute
 1. Run precomputation to make a list of every possible move from each square on the board
 
 Initialization
-
 2. Insert board
 3. Initialize all its squares as unvisited
 4. Set starting position = 0;0
 
-
 Run Knights Tour finder: 
-
 5. Try each of the 8 moves
 6. Compoute new X & Y positions
 7. Check if new square is valid and unvisited
